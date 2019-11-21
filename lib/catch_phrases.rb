@@ -13,5 +13,5 @@ def toadstool
 end
 
 def link
-  print "It's DAngerous To Go Alone! Take This."
+  puts "It's DAngerous To Go Alone! Take This."
 end
