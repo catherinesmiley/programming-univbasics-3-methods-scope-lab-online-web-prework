@@ -7,4 +7,4 @@ def toadstool
   puts status
 end
 
-mario()
+mario("It's-a me, Mario!")
