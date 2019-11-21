@@ -3,7 +3,7 @@ def mario
   puts phrase
 end
 
-def phrase(mario)
+def phrase
   puts "It's-a me, Mario!"
 end
 
