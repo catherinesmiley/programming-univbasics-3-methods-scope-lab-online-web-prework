@@ -1,6 +1,5 @@
 def phrase
   puts "It's-a me, Mario!"
-  return "It's-a me, Mario!"
 end
 
 def mario
