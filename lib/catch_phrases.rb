@@ -4,6 +4,8 @@ def mario
 end
 
 def phrase
+  put "It's-a me, Mario!"
+end
 
 def toadstool
   puts status
